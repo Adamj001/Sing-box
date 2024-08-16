@@ -6,12 +6,12 @@
 
 vps一键脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Adamj001/sing-box/main/sing-box.sh)
 ```
 
 ssh综合工具箱一键脚本
 ```
-curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o ssh_tool.sh && chmod +x ssh_tool.sh && ./ssh_tool.sh
+curl -fsSL https://raw.githubusercontent.com/Adamj001/ssh_tool/main/ssh_tool.sh -o ssh_tool.sh && chmod +x ssh_tool.sh && ./ssh_tool.sh
 ```
 
 # 2：Serv00|CT8一键安装脚本,集成哪吒探针
@@ -23,12 +23,12 @@ curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o 
 
 一键四协议安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Adamj001/sing-box/main/sb_serv00.sh)
 ```
 
 一键三协议安装脚本vless-reality|hy2|tuic5 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/test/sb_00.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Adamj001/sing-box/test/sb_00.sh)
 ```
 
 # 3：游戏机hosting
